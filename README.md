@@ -1,4 +1,9 @@
-## Olá,👋 eu sou o Felipe. 
+
+<div style="display: flex; justify-content: center;">
+  <img alt="felipe-Js" height="200" width="200" src="https://github.com/Felipecardosopessoa/Felipecardosopessoa/assets/107128979/fdab384b-69d2-444d-985c-5bc709373cd3">
+</div>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
