@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Felipe Cardoso</h1>
 
-<p align="center">
-  <a href="linkedin.com/in/felipe-cardoso-94113a22b">
+<p align="center"> <a href="https://www.linkedin.com/in/felipecardoso/">
     <img alt="Rafael's LinkedIn" width="150px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
