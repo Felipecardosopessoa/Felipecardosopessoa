@@ -1,49 +1,165 @@
-<h1 align="center">Olá 👋, eu sou Felipe Cardoso</h1>
+<div align="center">
 
-<p align="center"> <a href="https://www.linkedin.com/in/felipe-cardoso-94113a22b/">
-    <img alt="Rafael's LinkedIn" width="150px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+# 👨‍💻 Felipe Cardoso Pessoa
+
+### Infrastructure Analyst | Microsoft | Azure | Windows Server | PowerShell
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Infrastructure+Analyst;Windows+Server+Administrator;Microsoft+Azure;Microsoft+365;PowerShell+Automation;Always+Learning..." alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipecardosopessoa)
+[![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft)]
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)]
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)]
+
+</div>
 
 ---
 
-<br/>
+# 👋 Sobre
 
+💡 Analista de Infraestrutura apaixonado por tecnologia, automação e ambientes Microsoft.
 
-<div style="display: flex; justify-content: center;">
-  <img alt="felipe-Js" height="200" width="200" src="https://github.com/Felipecardosopessoa/Felipecardosopessoa/assets/107128979/fdab384b-69d2-444d-985c-5bc709373cd3">
+Atuo com administração, sustentação e monitoramento de ambientes corporativos, sempre buscando boas práticas, segurança, disponibilidade e melhoria contínua.
+
+---
+
+# 🚀 Tech Stack
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=windows" width="55"/><br>
+<b>Windows Server</b>
+</td>
+
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" width="55"/><br>
+<b>Azure</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=powershell" width="55"/><br>
+<b>PowerShell</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/vmware/607078" width="55"/><br>
+<b>VMware</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/zabbix/D40000" width="55"/><br>
+<b>Zabbix</b>
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+👥 Active Directory
+</td>
+
+<td align="center">
+🔐 Entra ID
+</td>
+
+<td align="center">
+📧 Microsoft 365
+</td>
+
+<td align="center">
+🌐 DNS / DHCP
+</td>
+
+<td align="center">
+📋 GPO
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Especialidades
+
+✔️ Windows Server Administration
+
+✔️ Active Directory
+
+✔️ Microsoft 365
+
+✔️ Microsoft Azure
+
+✔️ Exchange Online
+
+✔️ Group Policy (GPO)
+
+✔️ DNS & DHCP
+
+✔️ File Server
+
+✔️ VMware
+
+✔️ Zabbix Monitoring
+
+✔️ PowerShell Automation
+
+✔️ Infrastructure Troubleshooting
+
+---
+
+# 📂 Repositórios
+
+📁 Windows Server
+
+📁 Active Directory
+
+📁 Microsoft Azure
+
+📁 Microsoft 365
+
+📁 PowerShell Scripts
+
+📁 VMware
+
+📁 Zabbix
+
+📁 Troubleshooting
+
+📁 Infrastructure Labs
+
+---
+
+# 📈 Atualmente estudando
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,github,powershell" />
+
+- ☁ Azure Administrator (AZ-104)
+- 🐳 Docker
+- ☸ Kubernetes
+- 🌍 Terraform
+- ⚙️ Automação com PowerShell
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-  
-  ##
- 
-<div>
-  <a href="https://github.com/Felipecardosopessoa"></a><div>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipecardosopessoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecardosopessoa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="feli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="feli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="feli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="feli-WORDPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="feli-HTML" height="30"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="feli-HTML" height="30"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  
-</div>
+<div align="center">
 
-  
-  ##
- 
-<div> 
- 
-  <a href="https://instagram.com/felipecpessoa1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/FelipecardosoIT" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-cardoso-94113a22b?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:felipecpessoa1adm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 💼 Building reliable, secure and scalable Microsoft Infrastructure.
+
+⭐ *"Continuous learning is the foundation of every great IT professional."*
 
 </div>
-
