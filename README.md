@@ -1,206 +1,155 @@
-<div align="center">
+# 🛠️ Tech Stack
 
-# ⚡ Felipe Cardoso Pessoa
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=windows" width="48"/><br>
+<b>Windows Server</b>
+</td>
 
-### Microsoft Infrastructure • Cloud • Automation • Monitoring
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=azure" width="48"/><br>
+<b>Azure</b>
+</td>
 
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=28&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Windows+Server+Administrator;Microsoft+Azure;Microsoft+365;Active+Directory;PowerShell+Automation;Infrastructure+Monitoring;Always+Learning..." />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=powershell" width="48"/><br>
+<b>PowerShell</b>
+</td>
 
-<br>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/vmware/607078" width="48"/><br>
+<b>VMware</b>
+</td>
 
-![](https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge)
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/zabbix/D40000" width="48"/><br>
+<b>Zabbix</b>
+</td>
+</tr>
 
-![](https://img.shields.io/badge/ROLE-Infrastructure%20Analyst-0078D4?style=for-the-badge)
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<b>Git</b>
+</td>
 
-![](https://img.shields.io/badge/LOCATION-Brazil-009739?style=for-the-badge)
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<b>GitHub</b>
+</td>
 
-</div>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<b>VS Code</b>
+</td>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
+<b>Docker</b>
+</td>
 
-# ⚙ Infrastructure Dashboard
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│        MICROSOFT INFRASTRUCTURE OPERATIONS CENTER          │
-│                                                            │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  Windows Server      🟢 ONLINE                            │
-│  Active Directory    🟢 HEALTHY                           │
-│  Azure               🟢 CONNECTED                         │
-│  Microsoft 365       🟢 AVAILABLE                         │
-│  Exchange Online     🟢 RUNNING                           │
-│  VMware              🟢 OPERATIONAL                       │
-│  Zabbix              🟢 MONITORING                        │
-│  PowerShell          🟢 AUTOMATION READY                  │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 💻 Terminal
-
-```powershell
-PS C:\Infrastructure>
-
-Get-Engineer
-
-Name        : Felipe Cardoso Pessoa
-
-Role        : Infrastructure Analyst
-
-Focus       : Microsoft Infrastructure
-
-Cloud       : Microsoft Azure
-
-Automation  : PowerShell
-
-Monitoring  : Zabbix
-
-Virtualization : VMware
-
-Status      : ONLINE
-```
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>
+<b>Linux</b>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🖥 Core Technologies
+# ☁️ Microsoft Infrastructure
 
-| Technology | Status |
-|------------|--------|
-| 🪟 Windows Server | ██████████ 100% |
-| 👥 Active Directory | ██████████ 100% |
-| 📜 Group Policy | ██████████ 100% |
-| ☁ Microsoft Azure | █████████░ 90% |
-| 📧 Microsoft 365 | █████████░ 90% |
-| 🔐 Entra ID | █████████░ 90% |
-| 🖥 VMware | █████████░ 90% |
-| 📊 Zabbix | █████████░ 90% |
-| ⚡ PowerShell | █████████░ 90% |
-| 🌐 Networking | ████████░░ 80% |
-
----
-
-# 🚀 Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,azure,powershell,git,github,docker,kubernetes,linux,bash,python"/>
-
-</p>
+| Área | Tecnologias |
+|------|-------------|
+| 🖥️ Sistemas Operacionais | Windows Server 2012 • 2016 • 2019 • 2022 |
+| 👥 Active Directory | AD DS • OU • Users • Groups • LDAP |
+| 🔐 Identidade | Microsoft Entra ID |
+| 📧 Microsoft 365 | Exchange Online • Teams • SharePoint |
+| ☁️ Cloud | Microsoft Azure • Azure Arc |
+| 🌐 Infraestrutura | DNS • DHCP • File Server • DFS • GPO |
+| 🖥️ Virtualização | VMware ESXi • VMware vCenter • Hyper-V |
+| 📊 Monitoramento | Zabbix |
+| ⚡ Automação | PowerShell |
+| 🔀 Versionamento | Git • GitHub |
 
 ---
 
-# 🏗 Infrastructure Stack
+# 💼 Ferramentas que utilizo
 
-```text
-                        INTERNET
-                            │
-                     Next Generation Firewall
-                            │
-                 ┌──────────┴──────────┐
-                 │                     │
-              Microsoft DNS      Microsoft DHCP
-                 │                     │
-                 └──────────┬──────────┘
-                            │
-                    Active Directory
-                            │
-            ┌───────────────┼────────────────┐
-            │               │                │
-      File Server      VMware Cluster     Azure
-            │               │                │
-        Windows VM      Linux VM      Microsoft 365
-                            │
-                        Exchange
-                            │
-                        Monitoring
-                          Zabbix
-```
+🪟 Windows Server
 
----
+☁️ Microsoft Azure
 
-# 📂 Current Focus
+👥 Active Directory
 
-✅ Windows Server
+🔐 Microsoft Entra ID
 
-✅ Active Directory
+📧 Microsoft 365
 
-✅ Microsoft Azure
+📬 Exchange Online
 
-✅ Microsoft 365
+🖥 VMware ESXi
 
-✅ Exchange Online
+🖥 VMware vCenter
 
-✅ VMware
+📊 Zabbix
 
-✅ PowerShell
+⚡ PowerShell
 
-✅ Infrastructure Monitoring
+🌐 DNS
 
-✅ Troubleshooting
+📡 DHCP
+
+📋 Group Policy (GPO)
+
+🖥 Hyper-V
+
+📂 Git
+
+🐙 GitHub
+
+💻 Visual Studio Code
+
+📝 Windows Terminal
 
 ---
 
-# 📖 Learning Roadmap
+# 🎯 Atualmente estudando
 
-🟢 AZ-104
-
-🟢 AZ-800
-
-🟢 AZ-801
-
-🟢 Docker
-
-🟢 Kubernetes
-
-🟢 Terraform
-
-🟢 Azure DevOps
+- ☁️ Microsoft Azure (AZ-104)
+- ⚡ PowerShell Avançado
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🌍 Terraform
+- 🔐 Microsoft Defender
 
 ---
 
-# 📈 GitHub Analytics
+# 📂 Repositórios
 
-<p align="center">
+📁 Windows Server
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+📁 Active Directory
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+📁 Azure
 
-</p>
+📁 Microsoft 365
 
----
+📁 PowerShell
 
-# 🏆 Professional Mindset
+📁 VMware
 
-```text
-✔ Infrastructure First
+📁 Zabbix
 
-✔ Automation over Repetition
+📁 Troubleshooting
 
-✔ Documentation as Code
-
-✔ Security by Design
-
-✔ Continuous Improvement
-
-✔ Monitoring Everything
-
-✔ Learning Never Stops
-```
+📁 Laboratórios
 
 ---
 
-<div align="center">
+# 📈 Objetivo
 
-## ⚡ "Keeping systems running is expected. Building reliable infrastructure is the real challenge."
+Este GitHub reúne laboratórios, documentação técnica, scripts, automações e estudos relacionados à Infraestrutura de TI, com foco em ambientes Microsoft, Cloud Computing e boas práticas operacionais.
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer"/>
-
-</div>
+> **"Infrastructure is more than keeping systems online — it's about building secure, reliable and scalable environments."**
